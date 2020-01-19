@@ -1,0 +1,2 @@
+# GitHub-scenarij
+kratki opis
